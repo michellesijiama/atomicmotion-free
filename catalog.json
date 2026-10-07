@@ -1,0 +1,309 @@
+{
+  "free": [
+    {
+      "id": "emoji-sketch",
+      "title": "Emoji Sketch",
+      "description": "Pick an emoji and watch it drawn on, stroke by stroke, as a hand-sketched line animation — real OpenMoji vector paths self-drawing with a subtle pencil wobble.",
+      "category": "Tool",
+      "source": "components/tool/emoji-sketch/emoji-sketch.tsx",
+      "demo": "https://atomicmotion.dev/components/emoji-sketch",
+      "dependencies": [
+        "clsx",
+        "perfect-freehand",
+        "tailwind-merge"
+      ],
+      "assets": [
+        "public/emoji/README.md",
+        "public/emoji/1F308.svg",
+        "public/emoji/1F319.svg",
+        "public/emoji/1F31F.svg",
+        "public/emoji/1F338.svg",
+        "public/emoji/1F343.svg",
+        "public/emoji/1F354.svg",
+        "public/emoji/1F355.svg",
+        "public/emoji/1F369.svg",
+        "public/emoji/1F381.svg",
+        "public/emoji/1F388.svg",
+        "public/emoji/1F3A8.svg",
+        "public/emoji/1F3B5.svg",
+        "public/emoji/1F440.svg",
+        "public/emoji/1F44D.svg",
+        "public/emoji/1F44F.svg",
+        "public/emoji/1F451.svg",
+        "public/emoji/1F47B.svg",
+        "public/emoji/1F47D.svg",
+        "public/emoji/1F48E.svg",
+        "public/emoji/1F4A1.svg",
+        "public/emoji/1F511.svg",
+        "public/emoji/1F514.svg",
+        "public/emoji/1F525.svg",
+        "public/emoji/1F600.svg",
+        "public/emoji/1F60E.svg",
+        "public/emoji/1F642.svg",
+        "public/emoji/1F680.svg",
+        "public/emoji/1F916.svg",
+        "public/emoji/1F973.svg",
+        "public/emoji/1F98B.svg",
+        "public/emoji/2600.svg",
+        "public/emoji/2601.svg",
+        "public/emoji/2602.svg",
+        "public/emoji/2615.svg",
+        "public/emoji/26A1.svg",
+        "public/emoji/270C.svg",
+        "public/emoji/2728.svg",
+        "public/emoji/2744.svg",
+        "public/emoji/2764.svg",
+        "public/emoji/2B50.svg",
+        "licenses/OpenMoji-CC-BY-SA-4.0.txt"
+      ]
+    },
+    {
+      "id": "soft-menu-reveal",
+      "title": "Soft Menu Reveal",
+      "description": "A frosted menu that unfolds from a stable nav row with a smooth bell-curve transition",
+      "category": "Navigation",
+      "source": "components/navigation/soft-menu-reveal/soft-menu-reveal.tsx",
+      "demo": "https://atomicmotion.dev/components/soft-menu-reveal",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "filter-dropdown-reveal",
+      "title": "Filter Dropdown Reveal",
+      "description": "A project filter bar with a soft gray dropdown and clipped text reveal",
+      "category": "Navigation",
+      "source": "components/navigation/filter-dropdown-reveal/filter-dropdown-reveal.tsx",
+      "demo": "https://atomicmotion.dev/components/filter-dropdown-reveal",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "scroll-scrubbed-typography",
+      "title": "Scroll-Scrubbed Typography",
+      "description": "A sticky editorial title that stretches tall, then compresses as scroll progress scrubs its vertical scale",
+      "category": "Typography",
+      "source": "components/typography/scroll-scrubbed-typography/scroll-scrubbed-typography.tsx",
+      "demo": "https://atomicmotion.dev/components/scroll-scrubbed-typography",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "codex-sidebar-reveal",
+      "title": "Codex Sidebar Reveal",
+      "description": "A compact app shell where a top-left icon press expands the left sidebar and shifts the workspace",
+      "category": "Navigation",
+      "source": "components/navigation/codex-sidebar-reveal/codex-sidebar-reveal.tsx",
+      "demo": "https://atomicmotion.dev/components/codex-sidebar-reveal",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "lucide-react",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "gemini-live",
+      "title": "Gemini Live",
+      "description": "A floating live-assistant panel with source chips, blue edge glow, listening pulses, and compact pause and keyboard controls",
+      "category": "AI",
+      "source": "components/ai/gemini-live/gemini-live.tsx",
+      "demo": "https://atomicmotion.dev/components/gemini-live",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "geometric-logo-reveal",
+      "title": "Geometric Logo Reveal",
+      "description": "A geometric wordmark assembles from a gray ghost — letters fill to ink in a staggered left-to-right cascade, settling into the solid logo",
+      "category": "Typography",
+      "source": "components/typography/geometric-logo-reveal/geometric-logo-reveal.tsx",
+      "demo": "https://atomicmotion.dev/components/geometric-logo-reveal",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "gradient-gummy-bear",
+      "title": "Gradient Gummy Bear",
+      "description": "A translucent 3D gummy bear (Three.js) with a soft pink gradient, light glowing through the jelly, and cursor parallax",
+      "category": "3D",
+      "source": "components/3d/gradient-gummy-bear/gradient-gummy-bear.tsx",
+      "demo": "https://atomicmotion.dev/components/gradient-gummy-bear",
+      "dependencies": [
+        "clsx",
+        "tailwind-merge",
+        "three",
+        "three-subdivide"
+      ],
+      "assets": [
+        "public/models/gummy-bear.glb",
+        "public/gummy-bear-poster.png"
+      ]
+    },
+    {
+      "id": "scroll-phase-cursor",
+      "title": "Scroll Phase Cursor",
+      "description": "A circular pointer whose ring fills with page progress while a sculpted 3D form rotates with the scroll",
+      "category": "Cursor",
+      "source": "components/cursor/scroll-phase-cursor/scroll-phase-cursor.tsx",
+      "demo": "https://atomicmotion.dev/components/scroll-phase-cursor",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "voice-bloom",
+      "title": "Voice Bloom",
+      "description": "A conversational microphone that blooms into an AI response panel, reveals replies word by word, and offers copy or regenerate actions",
+      "category": "AI",
+      "source": "components/ai/voice-bloom/voice-bloom.tsx",
+      "demo": "https://atomicmotion.dev/components/voice-bloom",
+      "dependencies": [
+        "framer-motion",
+        "lucide-react"
+      ],
+      "assets": []
+    },
+    {
+      "id": "showreel-sphere",
+      "title": "Showreel Sphere",
+      "description": "A studio landing page whose whole hero is one draggable 3D sphere, wrapped in a Renaissance painting that the next one sweeps around to replace every four seconds",
+      "category": "3D",
+      "source": "components/3d/showreel-sphere/showreel-sphere.tsx",
+      "demo": "https://atomicmotion.dev/components/showreel-sphere",
+      "dependencies": [
+        "clsx",
+        "tailwind-merge",
+        "three"
+      ],
+      "assets": [
+        "public/paintings/carnevale-birth-of-the-virgin.jpg",
+        "public/paintings/bruegel-the-harvesters.jpg",
+        "public/paintings/patinir-penitence-of-saint-jerome.jpg",
+        "public/paintings/bosch-adoration-of-the-magi.jpg"
+      ]
+    },
+    {
+      "id": "coffee-gauge",
+      "title": "Coffee Gauge",
+      "description": "Three hand-drawn coffee cups on a periwinkle card, each a liquid gauge that pours and drains on its own rhythm — empty they read as outlines, full they read as the solid silhouette; open the card and you can log what you actually drank",
+      "category": "Data Visualization",
+      "source": "components/data-visualization/coffee-gauge/coffee-gauge.tsx",
+      "demo": "https://atomicmotion.dev/components/coffee-gauge",
+      "dependencies": [
+        "clsx",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "halftone-bloom",
+      "title": "Halftone Bloom",
+      "description": "A progress indicator drawn as a stippled moon — a lunar photograph resampled into coloured dots that light left to right like a terminator crossing the disc, from new moon at nothing to full at a hundred; collapsed it sits as a glance-sized moon at the same phase",
+      "category": "Data Visualization",
+      "source": "components/data-visualization/halftone-bloom/halftone-bloom.tsx",
+      "demo": "https://atomicmotion.dev/components/halftone-bloom",
+      "dependencies": [
+        "clsx",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "blossom-light",
+      "title": "Blossom Light",
+      "description": "A square of wall whose light is the controls in the middle of it: leaf shadow on white plaster, dimmed and lifted by a brightness pill that fills line by line, turned from cool to amber by a tone slider, and sent to follow the weather outside by an Adaptive toggle, while the leaf shadow on the wall stirs in a wind — all flat frosted glass, scaling itself to fit wherever it is put",
+      "category": "Control",
+      "source": "components/control/blossom-light/blossom-light.tsx",
+      "demo": "https://atomicmotion.dev/components/blossom-light",
+      "dependencies": [
+        "clsx",
+        "tailwind-merge"
+      ],
+      "assets": [
+        "public/textures/wall-shadow.jpg"
+      ]
+    },
+    {
+      "id": "gradient-event-card",
+      "title": "Gradient Event Card",
+      "description": "Eight event cards on a ring inside a phone lying on its side — swipe and they follow your finger and snap one page at a time, the neighbours turning away like cover flow. Each card is a heat-map field with circles, ellipses, arcs and coils painted onto it as heat, every shape its own halo-to-core gradient, in palettes borrowed from painters — Monet, Rothko, Hilma af Klint, O'Keeffe kept cohesive; Matisse and Delaunay loud — rippling, breathing, orbiting and swaying under printed grain",
+      "category": "Gradient",
+      "source": "components/gradient/gradient-event-card/gradient-event-card.tsx",
+      "demo": "https://atomicmotion.dev/components/gradient-event-card",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "stamp-tracker",
+      "title": "Stamp Tracker",
+      "description": "Four habits as a deck of tall blocks of risograph colour on a bare black phone screen — sky, cocoa, pink and mint, each with its own pattern ink — fanned like a loose stack. Swipe through water, coffee, move and read with a silky, interruptible gesture that follows a finger or a two-finger trackpad swipe, flip between Day, Week and Month, and tap a day to press a rubber stamp onto it. The middle of each card holds a loose hand-inked line drawing in the style of a Japanese tabletop illustration, with a tiny person getting up to something among the objects",
+      "category": "Data Visualization",
+      "source": "components/data-visualization/stamp-tracker/stamp-tracker.tsx",
+      "demo": "https://atomicmotion.dev/components/stamp-tracker",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
+      "id": "doodle-calendar",
+      "title": "Doodle Calendar",
+      "description": "A sketchbook-style diary for everyday life in Japan. Tap today’s +, write a note, and tap Sketch it to preview a matching pencil illustration. Today is highlighted in blue, and refreshing the preview starts a fresh diary.",
+      "category": "Data Visualization",
+      "source": "components/data-visualization/doodle-calendar/doodle-calendar.tsx",
+      "demo": "https://atomicmotion.dev/components/doodle-calendar",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "lucide-react",
+        "tailwind-merge"
+      ],
+      "assets": [
+        "public/illustrations/doodle-calendar-diary/coffee.webp",
+        "public/illustrations/doodle-calendar-diary/coffee-thumb.webp",
+        "public/illustrations/doodle-calendar-diary/bento.webp",
+        "public/illustrations/doodle-calendar-diary/bento-thumb.webp",
+        "public/illustrations/doodle-calendar-diary/exercise.webp",
+        "public/illustrations/doodle-calendar-diary/exercise-thumb.webp",
+        "public/illustrations/doodle-calendar-diary/train.webp",
+        "public/illustrations/doodle-calendar-diary/train-thumb.webp",
+        "public/illustrations/doodle-calendar-diary/rain.webp",
+        "public/illustrations/doodle-calendar-diary/rain-thumb.webp",
+        "public/illustrations/doodle-calendar-diary/home.webp",
+        "public/illustrations/doodle-calendar-diary/home-thumb.webp",
+        "public/illustrations/doodle-calendar-diary/shrine.webp",
+        "public/illustrations/doodle-calendar-diary/shrine-thumb.webp"
+      ]
+    }
+  ]
+}
