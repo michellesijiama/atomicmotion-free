@@ -4,12 +4,13 @@ A design library of expressive interfaces and interactions for designers and fro
 
 **[Explore the design library](https://atomicmotion.dev)** — every live demo is free.
 
-All 17 gallery components are free and open source. Copy the source and required assets directly from this repository.
+18 components are available here, free and open source. Copy the source and required assets directly from this repository.
 
 ## Free components
 
 | Component | Category | Source | Demo |
 | --- | --- | --- | --- |
+| UI Walkthrough | Template | [Source](components/template/ui-walkthrough/ui-walkthrough.tsx) | [Preview](https://atomicmotion.dev/components/ui-walkthrough) |
 | Emoji Sketch | Tool | [Source](components/tool/emoji-sketch/emoji-sketch.tsx) | [Preview](https://atomicmotion.dev/components/emoji-sketch) |
 | Soft Menu Reveal | Navigation | [Source](components/navigation/soft-menu-reveal/soft-menu-reveal.tsx) | [Preview](https://atomicmotion.dev/components/soft-menu-reveal) |
 | Filter Dropdown Reveal | Navigation | [Source](components/navigation/filter-dropdown-reveal/filter-dropdown-reveal.tsx) | [Preview](https://atomicmotion.dev/components/filter-dropdown-reveal) |

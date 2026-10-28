@@ -1,6 +1,20 @@
 {
   "free": [
     {
+      "id": "ui-walkthrough",
+      "title": "UI Walkthrough",
+      "description": "A dark product walkthrough for portfolio case studies, an iPhone beside short captions that pushes in, taps, slides a before and after and labels a part, with one steps list to swap in your own screen",
+      "category": "Template",
+      "source": "components/template/ui-walkthrough/ui-walkthrough.tsx",
+      "demo": "https://atomicmotion.dev/components/ui-walkthrough",
+      "dependencies": [
+        "clsx",
+        "framer-motion",
+        "tailwind-merge"
+      ],
+      "assets": []
+    },
+    {
       "id": "emoji-sketch",
       "title": "Emoji Sketch",
       "description": "Pick an emoji and watch it drawn on, stroke by stroke, as a hand-sketched line animation — real OpenMoji vector paths self-drawing with a subtle pencil wobble.",
