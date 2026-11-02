@@ -15,11 +15,34 @@
       "assets": []
     },
     {
+      "id": "jardin-opening",
+      "title": "Jardin Opening",
+      "description": "A living hand-illustrated New York garden inside an accurately proportioned 13-inch iPad Pro. A wordless garden slowly draws closer, then the English City in Bloom logo is written one ink stroke at a time. Botanical details and a Manhattan silhouette finish the mark before the entry button appears. Birds fly and flowers sway around distant visitors. Layered scenery adds gentle pointer parallax; reduced motion is respected.",
+      "category": "Immersive",
+      "source": "components/immersive/jardin-opening/jardin-opening.tsx",
+      "demo": "https://atomicmotion.dev/components/jardin-opening",
+      "dependencies": [
+        "framer-motion"
+      ],
+      "assets": [
+        "public/components/jardin-living/background-nyc-sunny.png",
+        "public/components/jardin-living/midground.png",
+        "public/components/jardin-living/foreground.png",
+        "public/components/jardin-living/flower.png",
+        "public/components/jardin-living/bird-sprite.png",
+        "public/components/jardin-living/city-in-bloom-logo.png",
+        "public/components/jardin-living/garden-visitors.png"
+      ]
+    },
+    {
       "id": "emoji-sketch",
       "title": "Emoji Sketch",
       "description": "Pick an emoji and watch it drawn on, stroke by stroke, as a hand-sketched line animation — real OpenMoji vector paths self-drawing with a subtle pencil wobble.",
-      "category": "Tool",
-      "source": "components/tool/emoji-sketch/emoji-sketch.tsx",
+      "category": "Play",
+      "source": "components/play/emoji-sketch/emoji-sketch.tsx",
+      "legacySources": [
+        "components/tool/emoji-sketch/emoji-sketch.tsx"
+      ],
       "demo": "https://atomicmotion.dev/components/emoji-sketch",
       "dependencies": [
         "clsx",
@@ -318,6 +341,19 @@
         "public/illustrations/doodle-calendar-diary/shrine.webp",
         "public/illustrations/doodle-calendar-diary/shrine-thumb.webp"
       ]
+    },
+    {
+      "id": "pocket-piggy",
+      "title": "Pocket Piggy",
+      "description": "A hand-drawn piggy lives in a tiny top-down home on a glowing CRT, and four chunky keys look after it, Sleep tucks it into bed, Feed puts an apple on the table, Home sends it back to its cushion, and Play lets you pick what it does next",
+      "category": "Play",
+      "source": "components/play/pocket-piggy/pocket-piggy.tsx",
+      "demo": "https://atomicmotion.dev/components/pocket-piggy",
+      "dependencies": [
+        "clsx",
+        "tailwind-merge"
+      ],
+      "assets": []
     }
   ]
 }

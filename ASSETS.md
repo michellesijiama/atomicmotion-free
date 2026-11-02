@@ -2,6 +2,13 @@
 
 The component code is MIT-licensed. Runtime images and models retain their own terms.
 
+- **Jardin Opening:** public/components/jardin-living/background-nyc-sunny.png — MIT. AI-edited sunny New York garden illustration with a repainted blue sky and warm daylight for AtomicMotion UI.
+- **Jardin Opening:** public/components/jardin-living/midground.png — MIT. AI-generated transparent garden gate for AtomicMotion UI.
+- **Jardin Opening:** public/components/jardin-living/foreground.png — MIT. AI-generated transparent botanical foreground for AtomicMotion UI.
+- **Jardin Opening:** public/components/jardin-living/flower.png — MIT. AI-generated transparent flower animated at its stem for AtomicMotion UI.
+- **Jardin Opening:** public/components/jardin-living/bird-sprite.png — MIT. AI-generated four-frame bird flight cycle for AtomicMotion UI.
+- **Jardin Opening:** public/components/jardin-living/city-in-bloom-logo.png — MIT. AI-generated hand-lettered City in Bloom title logo with botanical flourishes and a Manhattan skyline for AtomicMotion UI.
+- **Jardin Opening:** public/components/jardin-living/garden-visitors.png — MIT. AI-generated transparent groups of garden visitors for AtomicMotion UI.
 - **Emoji Sketch:** public/emoji/ (40 .svg files) — CC BY-SA 4.0. OpenMoji project and contributors, v15.0.0 black SVGs. Serve at /emoji/; preserve the share-alike notice.
 - **Emoji Sketch:** licenses/OpenMoji-CC-BY-SA-4.0.txt — CC BY-SA 4.0. Copy the attribution and share-alike notice with the SVG assets.
 - **Gradient Gummy Bear:** public/models/gummy-bear.glb — CC-BY 3.0. "Gummy Bear" by Poly by Google, via Poly Pizza (https://poly.pizza/m/5zl16PPAItW) — attribution required.

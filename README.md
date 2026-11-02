@@ -4,14 +4,15 @@ A design library of expressive interfaces and interactions for designers and fro
 
 **[Explore the design library](https://atomicmotion.dev)** — every live demo is free.
 
-18 components are available here, free and open source. Copy the source and required assets directly from this repository.
+All 20 gallery components are free and open source. Copy the source and required assets directly from this repository.
 
 ## Free components
 
 | Component | Category | Source | Demo |
 | --- | --- | --- | --- |
 | UI Walkthrough | Template | [Source](components/template/ui-walkthrough/ui-walkthrough.tsx) | [Preview](https://atomicmotion.dev/components/ui-walkthrough) |
-| Emoji Sketch | Tool | [Source](components/tool/emoji-sketch/emoji-sketch.tsx) | [Preview](https://atomicmotion.dev/components/emoji-sketch) |
+| Jardin Opening | Immersive | [Source](components/immersive/jardin-opening/jardin-opening.tsx) | [Preview](https://atomicmotion.dev/components/jardin-opening) |
+| Emoji Sketch | Play | [Source](components/play/emoji-sketch/emoji-sketch.tsx) | [Preview](https://atomicmotion.dev/components/emoji-sketch) |
 | Soft Menu Reveal | Navigation | [Source](components/navigation/soft-menu-reveal/soft-menu-reveal.tsx) | [Preview](https://atomicmotion.dev/components/soft-menu-reveal) |
 | Filter Dropdown Reveal | Navigation | [Source](components/navigation/filter-dropdown-reveal/filter-dropdown-reveal.tsx) | [Preview](https://atomicmotion.dev/components/filter-dropdown-reveal) |
 | Scroll-Scrubbed Typography | Typography | [Source](components/typography/scroll-scrubbed-typography/scroll-scrubbed-typography.tsx) | [Preview](https://atomicmotion.dev/components/scroll-scrubbed-typography) |
@@ -28,6 +29,7 @@ A design library of expressive interfaces and interactions for designers and fro
 | Gradient Event Card | Gradient | [Source](components/gradient/gradient-event-card/gradient-event-card.tsx) | [Preview](https://atomicmotion.dev/components/gradient-event-card) |
 | Stamp Tracker | Data Visualization | [Source](components/data-visualization/stamp-tracker/stamp-tracker.tsx) | [Preview](https://atomicmotion.dev/components/stamp-tracker) |
 | Doodle Calendar | Data Visualization | [Source](components/data-visualization/doodle-calendar/doodle-calendar.tsx) | [Preview](https://atomicmotion.dev/components/doodle-calendar) |
+| Pocket Piggy | Play | [Source](components/play/pocket-piggy/pocket-piggy.tsx) | [Preview](https://atomicmotion.dev/components/pocket-piggy) |
 
 ## Using a free component
 
