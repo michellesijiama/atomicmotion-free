@@ -1,6 +1,7 @@
 {
   "version": 1,
   "freeComponents": [
+    "particle-conversation",
     "ui-walkthrough",
     "jardin-opening",
     "emoji-sketch",
@@ -27,7 +28,7 @@
     ".gitignore": "aa2ec73548a83db9491cbbe9d93b20e0f3200340602c913c8794ac1d5e409751",
     ".nvmrc": "68ca3fba3b7e864770cb61aeb306d4bd4354b68ab4dd38450860c5d823e42a53",
     "ASSETS.md": "1dc2923d32a239d2b6bc91d74db515ff7052563b6968fddee5307c3aa9cc8db6",
-    "catalog.json": "ef99818eec67207b42304ac8381138b30e339ac429499d91af436c392b2ca9f1",
+    "catalog.json": "393c1ec4cbf78cddff9067470365ee9905ee7e7b897f2f6d831af9d70ae35544",
     "components/3d/gradient-gummy-bear/gradient-gummy-bear.tsx": "4f21cc20df7ae72f4409b06a425921e4957c56c4615baa1dc9d4fb01a296ee5a",
     "components/3d/gradient-gummy-bear/index.ts": "1d0bd8f774410ad419259a8568043708cde7c1e293780169937ab6855ed879df",
     "components/3d/gradient-gummy-bear/README.md": "9a273218c987a2a914febf28da2afa427969405738782d4e3607b88c147472f7",
@@ -37,6 +38,9 @@
     "components/ai/gemini-live/gemini-live.tsx": "63fcb3e933d8b3c7cb1cbbde1f766260cb24668a4939931027cd7948b437ce40",
     "components/ai/gemini-live/index.ts": "bc8e6a4d94e701974bd2d7f7f6e6550a27fc25a598b4113ab6fc469f17669439",
     "components/ai/gemini-live/README.md": "a08c2137f85221630de6320f8bd223b7d192f35c1da9f05afaedfe9b9065a7e9",
+    "components/ai/particle-conversation/index.ts": "e706c2110891142fc56bb6909a50fc4c89a2bb29744759e2d2261d537bda9575",
+    "components/ai/particle-conversation/particle-conversation.tsx": "241675c23f739d2babeb44f96296503ee66cbee6f9126af7af832d427480a845",
+    "components/ai/particle-conversation/README.md": "36c026af9fd363c989be09f4cd0e07b4b65b7fa65fb700f34640a7e2e7f189b6",
     "components/ai/voice-bloom/index.ts": "dda9afdacfa5942687900c1a64ea007c7a478b3c3269fdfb31b29d311ec9eaa9",
     "components/ai/voice-bloom/README.md": "3a19a5bd13b674c686a13b190323fad6378cf33c6975153c55c3ebec8f151ab7",
     "components/ai/voice-bloom/voice-bloom.tsx": "f52d3667070de8e124fba4e5c138df1caa069615fd993253190f3f2b4258ffed",
@@ -165,7 +169,7 @@
     "public/paintings/carnevale-birth-of-the-virgin.jpg": "581fd988ffba99929c75657320eb00a6af7bbcee832b8c3fa85502e2c82b7241",
     "public/paintings/patinir-penitence-of-saint-jerome.jpg": "60372b30b9adc8ac4723e528048330468b9baa44e9a985272e07c3eaeff0018b",
     "public/textures/wall-shadow.jpg": "d72f52beddb0fb10db55d66358b8890a8310a043415a3f51119375ba8684f50c",
-    "README.md": "527b9c05018d72202e6ca67927d57ce5072e8ef9d5cf3a63f8edcaf0f0a852fb",
+    "README.md": "fdb191a94197b4a5bb9662239807bcafaa07678117035adb5b4056513c0dc420",
     "scripts/verify-copy-paste.mjs": "ae00c82e491b94ffd387f458907d986634bbb5dff452a72d2ce5cf43a493663a",
     "scripts/verify-library.mjs": "95e57557df5f5172b16788c4e584f39213e2458ebe33bcc27ab5f25c39af48da",
     "scripts/verify-styles.mjs": "d133f6eeae132d1b5e3044cd07787e4ea2b1fb015439d76bbfbb4ce5003133d4"

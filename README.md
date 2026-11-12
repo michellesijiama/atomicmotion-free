@@ -4,12 +4,13 @@ A design library of expressive interfaces and interactions for designers and fro
 
 **[Explore the design library](https://atomicmotion.dev)** — every live demo is free.
 
-All 20 gallery components are free and open source. Copy the source and required assets directly from this repository.
+This repository includes 21 free, open-source components. Copy the source and required assets directly from this repository.
 
 ## Free components
 
 | Component | Category | Source | Demo |
 | --- | --- | --- | --- |
+| Particle Conversation | AI | [Source](components/ai/particle-conversation/particle-conversation.tsx) | [Preview](https://atomicmotion.dev/components/particle-conversation) |
 | UI Walkthrough | Template | [Source](components/template/ui-walkthrough/ui-walkthrough.tsx) | [Preview](https://atomicmotion.dev/components/ui-walkthrough) |
 | Jardin Opening | Immersive | [Source](components/immersive/jardin-opening/jardin-opening.tsx) | [Preview](https://atomicmotion.dev/components/jardin-opening) |
 | Emoji Sketch | Play | [Source](components/play/emoji-sketch/emoji-sketch.tsx) | [Preview](https://atomicmotion.dev/components/emoji-sketch) |
