@@ -37,3 +37,6 @@ The component code is MIT-licensed. Runtime images and models retain their own t
 Blossom Light's supplied wall-shadow photograph has no recorded photographer, origin or redistribution terms.
 Halftone Bloom embeds dots traced from a supplied lunar photograph; its photographer, origin and license have not been recorded.
 These existing notices remain unresolved. The MIT code license does not grant rights in third-party artwork.
+
+- **Particle Conversation:** public/components/particle-conversation/first-light.mp3 — MIT. Optional original demo track by AtomicMotion.
+- **Particle Conversation:** public/components/particle-conversation/first-light.svg — MIT. Optional cover art for First Light by AtomicMotion.

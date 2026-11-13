@@ -3,7 +3,7 @@
     {
       "id": "particle-conversation",
       "title": "Particle Conversation",
-      "description": "Electric blue particles respond to the microphone or a dropped audio file. The controls unfold into one translucent shape.",
+      "description": "A blue particle field and a monochrome waveform react to music or a microphone inside a black landscape card.",
       "category": "AI",
       "source": "components/ai/particle-conversation/particle-conversation.tsx",
       "demo": "https://atomicmotion.dev/components/particle-conversation",
@@ -11,7 +11,10 @@
         "framer-motion",
         "lucide-react"
       ],
-      "assets": []
+      "assets": [
+        "public/components/particle-conversation/first-light.mp3",
+        "public/components/particle-conversation/first-light.svg"
+      ]
     },
     {
       "id": "ui-walkthrough",
